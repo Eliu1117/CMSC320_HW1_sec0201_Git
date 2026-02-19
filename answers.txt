@@ -6,3 +6,8 @@ Q2: What field could data science be applied to?
 
 Answer: Data science could be applied to the medical field to provide a statistical analysis of the effectiveness of vaccines over the years.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging cobines branches, while rebasing moves a branch's commits to the tip of another.
+
